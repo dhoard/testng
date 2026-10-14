@@ -460,6 +460,7 @@ org.testng.factory.issue3111.FactoryInstanceTest#readingTheMetadataOfALazyInstan
 org.testng.factory.issue3111.FactoryInstanceTest#theDeprecatedIndexKeepsMeaningTheInvocation	PASS 1
 org.testng.factory.issue3111.FactoryInstanceTest#theFactoryIsDescribedWithoutLeakingItsImplementation	PASS 1
 org.testng.factory.issue326.IssueTest#testToCheckParallelExecutionOfInstancesWithOneThreadPerInstance	PASS 1
+org.testng.factory.issue3576.IssueTest#pooledInvocationsKeepTheirFactoryParameters	PASS 2
 org.testng.factory.issue553.IssueTest#testMethod	PASS 1
 org.testng.factory.lazy.LazyFactoryConfigMethodTest#beforeSuiteOnLazyFactory	PASS 1
 org.testng.factory.lazy.LazyFactoryConfigMethodTest#beforeTestOnLazyFactory	PASS 1
